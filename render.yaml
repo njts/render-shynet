@@ -1,6 +1,5 @@
 services:
   - type: web
-    numInstances: 3
     region: frankfurt
     plan: free
     name: shynet
